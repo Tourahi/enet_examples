@@ -1,0 +1,6 @@
+#!/bin/bash
+
+moonc .
+love .
+rm main.lua
+rm client.lua
